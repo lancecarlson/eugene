@@ -1,6 +1,6 @@
 See LICENSE for Copyright. It's MIT because I'm narcissistic.
 
-README coming soon. See src/eugene/universe.clj for now.
+README coming soon. Take a look at the source of this file: src/eugene/universe.clj for now.
 
 TODO
 - Create smarter algos for assigning value to traits that render positive results
